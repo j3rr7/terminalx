@@ -1,0 +1,10 @@
+[
+  { "id": "1", "name": "Espresso", "price": 3.50, "category": "Beverage", "stock": 100 },
+  { "id": "2", "name": "Cappuccino", "price": 4.50, "category": "Beverage", "stock": 80 },
+  { "id": "3", "name": "Croissant", "price": 2.75, "category": "Food", "stock": 40 },
+  { "id": "4", "name": "Blueberry Muffin", "price": 3.25, "category": "Food", "stock": 30 },
+  { "id": "5", "name": "Tuna Sandwich", "price": 6.50, "category": "Food", "stock": 25 },
+  { "id": "6", "name": "Iced Latte", "price": 5.00, "category": "Beverage", "stock": 60 },
+  { "id": "7", "name": "Cheesecake", "price": 5.50, "category": "Food", "stock": 15 },
+  { "id": "8", "name": "Green Tea", "price": 3.00, "category": "Beverage", "stock": 50 }
+]
